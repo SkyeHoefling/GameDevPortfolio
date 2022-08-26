@@ -1,6 +1,4 @@
-# Game Dev Portfolio
-Hello friends 👋 
-
+# Hello Friends 👋
 My name is Skye Hoefling and I like building games. If you are here, you probably want to check out some of the demos and games I have built. Keep scrolling, if you want to learn a little bit about me head to the next section
 
 ## About Me - Skye Hoefling
