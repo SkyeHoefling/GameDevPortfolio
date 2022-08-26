@@ -16,6 +16,14 @@ Adventures of Skye is a small Action RPG where you can control one of 2 woman he
 
 This game is still a WIP and I have not published the repository just yet. Below is a WIP video with some of the combat engine working.
 
+**Notable Features**
+* ARPG Combat Again
+* Heads Up Display
+* Unreal Engine 5 Game Ability System
+* Local Multiplayer
+
+
+
 
 ## PuzzleBot
 **Genre:** Puzzle
@@ -36,3 +44,6 @@ You control a robot that has the ability to drop markers or orbs. When you do th
 
 
 https://user-images.githubusercontent.com/17751436/186918253-08ff177d-047b-403f-b05b-563c4d377087.mp4
+
+# Source Code Requests
+Not all of the source code is available on GitHub. If you need access to the full source code, I will grant access on a case-by-case basis
